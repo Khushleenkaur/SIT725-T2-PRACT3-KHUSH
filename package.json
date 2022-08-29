@@ -1,0 +1,26 @@
+{
+    "name": "SIT725-T2-PRACT3-KHUSH",
+    "version": "1.0.0",
+    "description": "week 3 practical for SIT 725 2022",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Khushleenkaur/SIT725-T2-PRACT3-KHUSH.git"
+    },
+    "keywords": [
+      "Express",
+      "NodeJs"
+    ],
+    "author": "khushleen kaur dhindsa",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Khushleenkaur/SIT725-T2-PRACT3-KHUSH.git/issues"
+    },
+    "homepage": "https://github.com/Khushleenkaur/SIT725-T2-PRACT3-KHUSH.git#readme",
+    "dependencies": {
+      "express": "^4.17.3"
+    }
+  }
